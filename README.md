@@ -19,6 +19,8 @@ The model files and datasets are not provided due to larger file sizes.
 
 The above files are used to run most of the models both in Googlecolab and Kaggle kernel. As these kernels are used extensively for training the model the python dependencies are not important to mention.
 
+The notebook with QSLR and QLR will be uploaded soon.  
+
 The functions in the above files are similar as all the model follows 20 fold crossvalidation with optuna hyperparameter optimization. 
 
 The quantum ML models are under parameter tuning and debugging soon all the models with loss data will be provided 
