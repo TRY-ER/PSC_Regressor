@@ -1,6 +1,6 @@
 Linear Regression
 Ridge Regression
-Neural Network Regression 
+Neural Network Regression - Multi Label Perceptron
 Lasso Regression 
 Decision Tree Regression 
 Random Forest
