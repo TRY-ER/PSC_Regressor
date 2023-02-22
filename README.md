@@ -5,19 +5,18 @@ The code is a walk through of the development process.
 
 The model files and datasets are not provided due to larger file sizes.
 
-> xgboost-reg-main_cloud_trainer.ipynb
 
-> cloud trainer/code-tabnet-reg-main_cloud_trainer
+> cloud_trainer/Perov_XGBoost_20_Fold_10_optim
 
-> cloud trainer/lasso-ridge-reg-main_cloud_trainer
+> cloud trainer/perov_MLP_20_Fold_30_optim_0.25DO
 
-> cloud trainer/linear-regression-main_cloud_trainer
+> cloud trainer/perov_TabNet_20_Fold_30_optim
 
-> cloud trainer/MLPerceptron-torch-norm-nD-eS5_cloud_trainer
+> cloud trainer/perov_lasso_ridge_20_Fold_20_optim
 
-> cloud trainer/Quantum_NN-pl-torch-cloud_trainer
+> cloud trainer/perov_sklearn_linear_reg_no_optim
 
-The above files are used to run most of the models both in Googlecolab and Kaggle kernel. As these kernels are used extensively for training the model the python dependencies are not important to mention.
+The above files are used to run most of the models both in Googlecolab and Kaggle kernel.
 
 The notebook with QSLR and QLR will be uploaded soon.  
 
@@ -25,4 +24,9 @@ The functions in the above files are similar as all the model follows 20 fold cr
 
 The quantum ML models are under parameter tuning and debugging soon all the models with loss data will be provided 
 
-### If necessary the dataset and models can be provided with a google drive link !!
+### If necessary the dataset and models can be provided with link !!
+
+
+Environment Detail
+pip==21.2.4
+python==3.7.10
