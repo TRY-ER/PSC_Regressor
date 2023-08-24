@@ -30,3 +30,6 @@ The quantum ML models are under parameter tuning and debugging soon all the mode
 Environment Detail
 
 python==3.7.10
+
+
+The Research Article that included ths code can be found at - <link>https://onlinelibrary.wiley.com/doi/10.1002/adts.202300309<link>
