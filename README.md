@@ -29,6 +29,4 @@ The quantum ML models are under parameter tuning and debugging soon all the mode
 
 Environment Detail
 
-pip==21.2.4
-
 python==3.7.10
